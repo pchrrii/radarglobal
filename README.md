@@ -1,4 +1,4 @@
-# RadarGlobal
+# Radar Global
 Repositorio de noticias y artículos sobre política internacional y geopolítica.
 
 <!DOCTYPE html>
